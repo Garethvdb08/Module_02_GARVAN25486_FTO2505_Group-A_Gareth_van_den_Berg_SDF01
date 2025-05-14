@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Challenge: It all starts here, my first project. 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Gareth
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
