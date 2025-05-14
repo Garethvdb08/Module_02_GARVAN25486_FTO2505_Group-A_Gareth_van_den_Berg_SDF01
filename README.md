@@ -1,4 +1,4 @@
-# [SDF01] Challenge: It all starts here, my first project!!🚀
+It all starts here, My first project!!🚀
 
 # 👋 Hi, I'm Gareth
 
