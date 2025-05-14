@@ -32,10 +32,12 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- 🤝 Teamplayer able to work with others.
+- 🎓 A Quick Study.
+- 👂Good listener.
+- 🕊️ Easy to work with and teachable.
 
 ---
 
