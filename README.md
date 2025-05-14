@@ -1,4 +1,4 @@
-It all starts here, My first project!!🚀
+# It all starts here, my first project!!🚀
 
 # 👋 Hi, I'm Gareth
 
