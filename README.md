@@ -76,7 +76,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I love playing rugby on the weekends, good way to keep fit and stay active 🏉
 
 ---
 
