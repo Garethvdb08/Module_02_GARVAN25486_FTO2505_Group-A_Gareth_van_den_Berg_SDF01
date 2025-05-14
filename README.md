@@ -8,9 +8,9 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
+- 💡 I'm a music lover I enjoy listening to loads of different music.
+- 🎓 I'm farely new to coding but I pick up on things rather quickly.
+- 🤖 I'm a creative mind and love challengs and problem solving.
 - 🔥 Looking forward to building my first real-world application.
 
 ---
