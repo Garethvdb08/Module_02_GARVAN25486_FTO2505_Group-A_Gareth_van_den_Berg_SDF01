@@ -1,6 +1,6 @@
 # It all starts here, my first project!!🚀
 
-# 👋 Hi, I'm Gareth
+# 👋 Hi, I'm Gareth van den Berg
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
