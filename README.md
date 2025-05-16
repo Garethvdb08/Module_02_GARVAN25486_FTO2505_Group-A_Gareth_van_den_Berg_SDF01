@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-- 💡 I'm a music lover I enjoy listening to varity of music.
+- 💡 I'm a music lover I enjoy listening to a varity of music.
 - 🎓 I'm farely new to coding but I pick up on things rather quickly.
 - 🤖 I'm a creative mind and love challenges and problem solving.
 - 🔥 Looking forward to building my first real-world application.
